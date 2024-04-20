@@ -68,14 +68,10 @@ nav a:hover {
 
 section {
   margin: 2rem 8.5rem;
-  top: 0; 
-  box-shadow: #0ef;
+  top: 0;
   padding: auto;
 }
-section:hover{
-  box-shadow: 0 0 5px cyan,0 0 25px cyan,
-  0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
-}
+
 
 .main {
   display: flex;
